@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Noor Ul Hassan",
-  title: "AI/Ml Engineer",
+  title: "AI/ML Engineer",
   email: "NoorUl.Hassan@studentambassadors.com",
   gitHub: "Geeky-Hassan",
   instagram: "geeky_hassan",

@@ -36,7 +36,7 @@ const skillsList = [
   "Deep Learning",
   "Reinforcement Learning",
   "Natural Language Processing",
-  "Computer Vision",
+  "Python",
 ];
 
 /**
