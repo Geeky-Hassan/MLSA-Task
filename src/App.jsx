@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Reshmail Fatima",
-  title: "AI/ML Engineer",
+  title: "Content Writer",
   email: "NoorUl.Hassan@studentambassadors.com",
   gitHub: "Geeky-Hassan",
   instagram: "geeky_hassan",
