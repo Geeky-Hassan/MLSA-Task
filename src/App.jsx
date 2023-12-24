@@ -26,12 +26,12 @@ import "./styles.css";
 const siteProps = {
   name: "Reshmail Fatima",
   title: "Content Writer",
-  email: "NoorUl.Hassan@studentambassadors.com",
-  gitHub: "Geeky-Hassan",
-  instagram: "geeky_hassan",
-  linkedIn: "geeky-hassan",
+  email: "reshsays89@gmail.com",
+  // gitHub: "Geeky-Hassan",
+  instagram: "a_girl_in_hijaab",
+  linkedIn: "reshmail-fatima-b79620227/",
   // medium: "@geekyhassan",
-  twitter: "GeekyHassan",
+  twitter: "Resh_Rajpoot",
   youTube: "",
 };
 

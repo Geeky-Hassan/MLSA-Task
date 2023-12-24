@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Machine Learning",
-  "Programming",
-  "Deep Learning",
-  "Reinforcement Learning",
-  "Natural Language Processing",
-  "Python",
+  "Content Writing",
+  "Horror Stories Writing",
+  "History enthusiast",
+  "CS Student",
+  "SEO enthusiast",
+  // "Python",
 ];
 
 /**
