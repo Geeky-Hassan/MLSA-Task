@@ -24,7 +24,7 @@ const imageAltText = "Hustle and tech background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a AI/ML student studying at UMT. I am passionate about solving problems in new creative ways to drive innovation. ";
+  "An aspiring writer crafting horror stories and optimizing content who seeks to continuously expand my skillset as a CS student.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "As a UMT AI/ML student with a fire in my belly, I thrive on tackling challenges head-on with fresh, creative approaches. My playground is the vast expanse of Machine Learning, Deep Learning,  where I explore, build, and innovate to shape the future.";
+  "As an aspiring writer, I find joy in crafting horror stories that allow me to explore intriguing ideas while building suspense for readers. History has fascinated me too - it's compelling to learn how past events shaped our present. I'm currently a computer science student continuously working to expand my skills in coding, algorithms optimization, and beyond. I'm an ambitious lifelong learner seeking to improve both my technical and communication abilities each day";
 
 const About = () => {
   return (
